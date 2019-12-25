@@ -24,5 +24,5 @@ Dev:  http://udagram-rash-dev.us-east-1.elasticbeanstalk.com
 
 ## Screenshots
 
-
+Please check in the route directory/screenshots
 
