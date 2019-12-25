@@ -24,9 +24,5 @@ Dev:  http://udagram-rash-dev.us-east-1.elasticbeanstalk.com
 
 ## Screenshots
 
-![Screenshot 2019-12-25 at 10.38.04.png](../_resources/850bac698360409d9ee7f97ecf00aa4a.png)
 
-
-
-![Screenshot 2019-12-25 at 11.09.32.png](../_resources/7fe551f4ab264bf8be465c83c20defb0.png)
 
